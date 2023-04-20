@@ -2,7 +2,7 @@
 How to get the original Bioshock without the annoying 2k launcher running on Windows 10/11
 1. Install Bioshock
 
-2. Go to Steam>Properties>Launch Options 
+2. Go to Steam>Properties>General>Launch Options 
 
 3. Enter: -dx9 -windowed 
 
@@ -10,7 +10,7 @@ How to get the original Bioshock without the annoying 2k launcher running on Win
 
 5. Find Bioshock.exe
 
-6. Select Properties>Compatibility
+6. Select Properties > Compatibility
 
 7. Select compatibility mode Windows XP3
 
@@ -31,6 +31,11 @@ How to get the original Bioshock without the annoying 2k launcher running on Win
 15. Remove: -windowed 
 
 16. Play the game. 
+# NB! DX10 support for this game is borked, so use at your own risk! 
+# NB2! If you experience crashes due to enabled Steam Overlay then
+
+# Disable Steam Overlay:
+Steam > Properties > Under the General tab > Uncheck Enable the Steam Overlay.
 
 # You are good,enjoy the classic.
 # silentgamepls
