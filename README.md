@@ -31,7 +31,9 @@ How to get the original Bioshock without the annoying 2k launcher running on Win
 15. Remove: -windowed 
 
 16. Play the game. 
+
 # NB! DX10 support for this game is borked, so use at your own risk! 
+
 # NB2! If you experience crashes due to enabled Steam Overlay then
 
 # Disable Steam Overlay:
