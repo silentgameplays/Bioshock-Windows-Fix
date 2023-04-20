@@ -1,5 +1,7 @@
 # Bioshock-Windows-Fix
 How to get the original Bioshock without the annoying 2k launcher running on Windows 10/11
+
+
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support and just in case install DirectX 9.0c:
 
 https://www.microsoft.com/en-us/download/details.aspx?id=8109
