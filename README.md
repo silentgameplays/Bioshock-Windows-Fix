@@ -18,9 +18,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=8109
 
 6. Select Properties > Compatibility
 
-7. Select compatibility mode Windows XP3
+7. Select Compatibility Mode Windows XP3
 
-8. Select Run this program as an administrator 
+8. Select Run This program as an Administrator 
 
 9. Click Apply>Ok
 
@@ -36,7 +36,11 @@ https://www.microsoft.com/en-us/download/details.aspx?id=8109
 
 15. Remove: -windowed 
 
-16. Play the game. 
+16. Play the game.
+
+17. For Audio Fix drop the openal32.dll file from this repo into your C:\Program Files (x86)\Steam\common\Bioshock\Builds\Release folder
+
+18. Disable reverb in Audio Settings. 
 
 # NB! DX10 support for this game is borked, so use at your own risk! 
 
@@ -46,7 +50,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=8109
 Steam > Properties > Under the General tab > Uncheck Enable the Steam Overlay.
 
 # You are good,enjoy the classic.
-# silentgamepls
+# silentgameplays
 Don't forget to subscribe to my YouTube channel.
-https://www.youtube.com/@SilentGamePLS/
+https://www.youtube.com/@silentgameplays
 
